@@ -139,5 +139,4 @@ const bigSpenders = businesses.filter(business => {
   }
 }
 })
-
 console.log('big spenders', bigSpenders)
